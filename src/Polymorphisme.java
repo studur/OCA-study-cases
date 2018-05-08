@@ -109,6 +109,7 @@ class Animal {
 
    }
 
+   //test
    static int numLegs = 4;
 
    static void isAnimal() {
